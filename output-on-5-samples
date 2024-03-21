@@ -1,0 +1,72 @@
+------------------------------------------
+TEST SAMPLE:  I hope you are in the best of your health. 
+
+{
+  "text": "I hope you are in the best of your health.",
+  "paraphrases": {
+    "0_clones": "I am optimistic that you are currently in the most optimal state of your health.",
+    "1_clones": "Can you share with me how well you are doing in terms of your health?",
+    "2_clones": "My hope is you in the most optimal state of your well-being.",
+    "3_clones": "My hope is for your overall well-being and health.",
+    "4_clones": "Can you share with me that your health is at its highest point right now?",
+    "5_clones": "I am optimistic that you are currently in the most healthy state possible.",
+    "6_clones": "We are in the most favorable state of your health.",
+    "7_clones": "Can you share with me how well you are doing in terms of your health? ",
+    "8_clones": "Could I wish to see a positive change in your health?",
+    "9_clones": "How well are you doing in terms of your physical condition and overall health?"
+  }
+}
+------------------------------------------
+TEST SAMPLE:  A paragraph is a series of sentences that are organized and coherent, and are all related to a single topic. Almost every piece of writing you do that is longer than a few sentences should be organized into paragraphs. This is because paragraphs show a reader where the subdivisions of an essay begin and end, and thus help the reader see the organization of the essay and grasp its main points. 
+
+{
+  "text": "A paragraph is a series of sentences that are organized and coherent, and are all related to a single topic. Almost every piece of writing you do that is longer than a few sentences should be organized into paragraphs. This is because paragraphs show a reader where the subdivisions of an essay begin and end, and thus help the reader see the organization of the essay and grasp its main points.",
+  "paraphrases": {
+    "0_clones": "A paragraph is a collection of sentences that are organized and coherent, all related to a single topic. The majority of your writing that is longer than a few sentences should be structured as paragraphs. The reader can understand the main points of an essay by displaying how its subdivisions begin and end, thereby helping them to see where they are organized.",
+    "1_clones": "A paragraph is a collection of sentences that are organized and coherent, all related to a single topic. It's important to organize your writing that is longer than a few sentences into paragraphs. The reader can understand the main points of an essay by displaying its subdivisions from beginning to end.",
+    "2_clones": "A paragraph is a collection of sentences that are organized and coherent, all related to a single topic. It's important to organize your writing that is longer than a few sentences into paragraphs. By displaying the beginning and ending of an essay's subdivisions, readers can gain a better understanding of its organization and primary concepts.",
+    "3_clones": "A paragraph consists of sentences that are organized and coherent, with a single focus. Every writing you do that is longer than a few sentences should be structured as paragraphs. This is achieved by displaying the beginning and ending points of an essay's divisions, which aids readers in comprehending its main points and organizing the essay effectively.",
+    "4_clones": "Numerous sentences related to one topic make up a paragraphs, which are structured and consistent. Almost every writing you do that exceeds a few sentences should be structured into paragraphs. This is because the reader can see where each division of an essay begins and end, thereby helping them to understand its main points and organization.",
+    "5_clones": "Describe the structure and coherence of all sentences that pertain to a single subject in paragraphs. It's important to organize any writing you do that exceeds a few sentences into paragraphs. By displaying a reader's perspective on how the different sections of an essay begin and end, they can help them understand its main points in terms of organization.",
+    "6_clones": "All sentences related to one topic and structured in order make up paragraphs. Any written work that exceeds a few sentences should be structured as paragraphs. The purpose of displaying a reader's division in order to help them understand the main points of an essay is to aid in their comprehension.",
+    "7_clones": "When it comes to organizing and coherent sentences, a paragraph is composed of those topics. When it comes to length, you should organize your writing into paragraphs. It helps a reader comprehend the primary elements of an essay by showing them where the subdivisions begin and end.",
+    "8_clones": "A paragraph is a collection of sentences that are organized and coherent, all related to a single topic.  What is the best way for me to structure my lengthy writing? Through the display of an essay's subdivisions, readers can understand its main points and organization.",
+    "9_clones": "By organizing and coherent sentences, a paragraph is composed entirely of one topic. Many of your written works are lengthy and require paragraphs to organize. To help readers comprehend the structure and essential concepts of an essay, they demonstrate how the subdivisions begin and end."
+  }
+}
+------------------------------------------
+TEST SAMPLE:  Please quote us the below to KSA including shipment charges. 
+
+{
+  "text": "Please quote us the below to KSA including shipment charges.",
+  "paraphrases": {
+    "0_clones": "We would appreciate it if you could quote the below to KSA, with shipment charges.",
+    "1_clones": "What is your quote for the KSA route, including shipment charges?",
+    "2_clones": "Can you provide a quote for the KSA route that includes shipment charges?",
+    "3_clones": "I'm looking for quotes on shipping charges to KSA, can you help?",
+    "4_clones": "Could you give me a quote from below to KSA, including the shipping fees?",
+    "5_clones": " quote the below to KSA, including shipment charges.",
+    "6_clones": "Please quote the below to KSA, with shipment charges.",
+    "7_clones": "How much does KSA charge for shipment charges? Please quote the below.",
+    "8_clones": "Can you provide a quote for the KSA shipping charges that include shipment charges?",
+    "9_clones": "Could you give me the quotes below for shipping costs from KSA to our location?"
+  }
+}
+------------------------------------------
+TEST SAMPLE:  If you suspect any email as being a scam or fraudulent, please immediately delete the email. Do not respond, forward or click any links within the suspect email. 
+
+{
+  "text": "If you suspect any email as being a scam or fraudulent, please immediately delete the email. Do not respond, forward or click any links within the suspect email.",
+  "paraphrases": {
+    "0_clones": "If you suspect an email is a scam or fraud, please delete it immediately. There was no response, forwarding or clicking on any links in the suspect email.",
+    "1_clones": "If you suspect an email of being a scam or fraudulent, please delete it right away. There were no responses, forwards or clicks on any links in the suspect email.",
+    "2_clones": "If you suspect an email of being a scam or fraudulent, please delete it right away. Did not respond, forwarding or clicking on any links in the suspect email.",
+    "3_clones": "Please delete any emails that you suspect are fraudulent or a scam. Are no longer responding or clicking on links within the suspect email?",
+    "4_clones": "Would it be advisable to delete any emails if you suspect they are a scam or fraud? The suspect email did not prompt any response, forwarding or clicking on links.",
+    "5_clones": "In case of email scam or fraud, please delete the email right away. The suspect email did not prompt any response, forwarding or clicking links.",
+    "6_clones": "When you detect any emails as fraudulent or scamful, delete them immediately. No links have been clicked or responded to in the suspect email.",
+    "7_clones": "When you detect any emails as fraudulent or deceitful, please delete them immediately. Have you not responded to the suspect email by clicking on, forwarding or detecting any links?",
+    "8_clones": "If you suspect an email of being a scam or fraudulent, please delete it right away.  Not responding to or clicking on any links included in the suspect email.",
+    "9_clones": "For all emails, please deleting them if you suspect they are a scam or fraudulent? Has there been any response to, forwarding or clicking a link within the suspect email?"
+  }
+}
